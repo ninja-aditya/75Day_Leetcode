@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
