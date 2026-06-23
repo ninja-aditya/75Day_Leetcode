@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1732-find-the-highest-altitude](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
