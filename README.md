@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ninja-aditya/75Day_Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
